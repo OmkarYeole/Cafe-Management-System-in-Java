@@ -1,4 +1,4 @@
-# Cafe Management System in Java
+# Cafe Management System
 
 ## Overview
 
